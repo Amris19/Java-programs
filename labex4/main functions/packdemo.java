@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Hi
+ * @author  User
  */
 import pack1.demo1;
 import pack1.subpack1.subdemo1;
