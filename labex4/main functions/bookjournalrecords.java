@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Hi
+ * @author  User
  */
 import bookpack.bookdemo;
 import journalpack.journaldemo;
