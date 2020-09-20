@@ -7,7 +7,7 @@ package labex5;
 
 /**
  *
- * @author Hi
+ * @author  User
  */
 import java.util.*;
 public class LabEx5 {
