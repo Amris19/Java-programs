@@ -7,7 +7,7 @@ package pack1.subpack1;
 
 /**
  *
- * @author Hi
+ * @author  User
  */
 public class subdemo1 {
     public void oddeven(int n)
