@@ -7,7 +7,7 @@ package pack1;
 
 /**
  *
- * @author Hi
+ * @author  User
  */
 public class demo1 {
 
