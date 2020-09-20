@@ -7,7 +7,7 @@ package labex5;
 
 /**
  *
- * @author Hi
+ * @author  User
  */
 public class QnNo2 {
     public static void main(String[] args)
