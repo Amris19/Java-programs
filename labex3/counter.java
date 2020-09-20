@@ -7,7 +7,7 @@ package lab.ex3;
 
 /**
  *
- * @author Hi
+ * @author User
  */
 public class counter {
     public static void main(String[] args)
