@@ -7,7 +7,7 @@ package bookpack;
 
 /**
  *
- * @author Hi
+ * @author  User
  */
 public class bookdemo {
     public int bookid[]={101,102,103,104};
