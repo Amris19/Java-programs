@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Hi
+ * @author  User
  */
 public class LabEx7Qn1 {
     
