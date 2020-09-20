@@ -7,7 +7,7 @@ package journalpack;
 
 /**
  *
- * @author Hi
+ * @author  User
  */
 public class journaldemo {
   
