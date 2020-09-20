@@ -10,7 +10,7 @@ import java.util.Comparator;
 
 /**
  *
- * @author Hi
+ * @author  User
  */
 public class LabEx7Qn2 {
       public static void main(String[] args)
