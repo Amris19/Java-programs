@@ -7,7 +7,7 @@ package pack2.subpack2;
 
 /**
  *
- * @author Hi
+ * @author  User
  */
 public class subdemo2 {
     public void pnz(int n)
