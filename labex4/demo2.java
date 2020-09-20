@@ -7,7 +7,7 @@ package pack2;
 
 /**
  *
- * @author Hi
+ * @author  User
  */
 public class demo2 {
     public int add(int a,int b)
