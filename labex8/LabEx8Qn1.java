@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Hi
+ * @author User
  */
 public class LabEx8Qn1 {
     public static void main(String[] args){
